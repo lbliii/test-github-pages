@@ -1,6 +1,6 @@
 ## Portfolio Examples 
 
-- [about me](/about)
+- [about me](/test-github-pages/about)
 
 ## Welcome to GitHub Pages
 
